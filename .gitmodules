@@ -1,0 +1,3 @@
+[submodule "subModuleA"]
+	path = subModuleA
+	url = git@github.com:Anakin-o/subModuleA.git
